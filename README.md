@@ -6,8 +6,7 @@ The project covers the **complete ML pipeline** — from data preprocessing and 
 ---
 
 ## 🚀 Live Demo
-🔗 https://<heart-stroke-prediction>.streamlit.app  
-*(Replace with your actual Streamlit Cloud link after deployment)*
+🔗 https://heart-stroke-prediction-psrs.streamlit.app/
 
 ---
 
