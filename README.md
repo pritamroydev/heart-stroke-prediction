@@ -67,6 +67,7 @@ Each model was saved using `joblib` for inference during deployment.
 ---
 
 ## 📂 Project Structure
+```text
 heart-stroke-prediction/
 │
 ├── app.py
@@ -97,7 +98,7 @@ heart-stroke-prediction/
 │
 ├── .gitignore
 │   └── Git ignore rules (virtual environment, cache files, datasets)
-
+'''
 
 ## 👥 Team Members
 
