@@ -67,4 +67,42 @@ Each model was saved using `joblib` for inference during deployment.
 ---
 
 ## 📂 Project Structure
+heart-stroke-prediction/
+│
+├── app.py
+│   └── Streamlit web application for heart stroke prediction
+│
+├── models/
+│   ├── scaler.pkl
+│   ├── stroke_logistic_model.pkl
+│   ├── stroke_knn_model.pkl
+│   ├── stroke_svc_model.pkl
+│   ├── stroke_decision_tree_model.pkl
+│   └── stroke_random_forest_model.pkl
+│
+├── notebook/
+│   └── Heart_Stroke_Prediction_Final.ipynb
+│       └── Contains data cleaning, EDA, feature engineering,
+│           model training, evaluation, and model saving
+│
+├── docs/
+│   ├── Project_Report.pdf
+│   └── Project_Presentation.pptx
+│
+├── requirements.txt
+│   └── Python dependencies required to run the Streamlit app
+│
+├── README.md
+│   └── Project overview, setup instructions, and team details
+│
+├── .gitignore
+│   └── Git ignore rules (virtual environment, cache files, datasets)
+
+
+## 👥 Team Members
+
+- **Pritam Roy** — Project Lead, ML Model Development, Presentation, Documentation, Deployment
+- **Supritam Mukhopathay** — Frontend Design, UI Feedback, Documentation
+- **Rhitinkar Bhowmik** — Data Preprocessing, Presentation, Documentation
+- **Srikanta Maji** — Data Visualization, Documentation
 
