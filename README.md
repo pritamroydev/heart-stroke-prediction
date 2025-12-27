@@ -98,7 +98,7 @@ heart-stroke-prediction/
 │
 ├── .gitignore
 │   └── Git ignore rules (virtual environment, cache files, datasets)
-'''
+```
 
 ## 👥 Team Members
 
